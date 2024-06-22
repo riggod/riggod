@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi 👋, I'm Jay Mawkar a.k.a RigGod
 🔭 I’m currently working on front-end development and mobile application development<br>👯 I’m looking to collaborate on web-development based projects and UI/UX-related projects also<br>🤝 I’m looking for help with developing web application based pages and android applications<br>🌱 I’m currently learning angularjs reactjs cyber security flutter<br>💬 Ask me about web development operating systems performance optimization<br>⚡ Fun fact - I can smartly complete 2 day's work in 1 day<br><br><br><br><br><br>
 
 
